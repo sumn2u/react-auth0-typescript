@@ -1,4 +1,7 @@
-# Auth0 React Token Renewal
+# Auth0 React App with Token Renewal
+![login](auth0_login.png)
+![app](auth0_app.png)
+> React Application created by create-react-app (Typescript) which includes typescript
 
 This sample demonstrates how to renew `access_token`s in a React application with Auth0 using `checkSession`. For more information, read [our reference documentation](https://auth0.com/docs/libraries/auth0js#using-checksession-to-acquire-new-tokens). The sample uses the create-react-app.
 

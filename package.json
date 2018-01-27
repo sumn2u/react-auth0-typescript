@@ -1,7 +1,9 @@
 {
-  "name": "academics",
+  "name": "react-auth0-typescript",
   "version": "0.1.0",
   "private": true,
+  "author": "Suman Kunwar",
+  "license": "MIT",
   "dependencies": {
     "@types/auth0-js": "^8.11.1",
     "@types/react-bootstrap": "^0.31.6",

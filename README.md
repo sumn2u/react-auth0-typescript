@@ -44,7 +44,7 @@ If you see an error on renewal saying `login_required`, that means you may be us
 
 In order to run the example with docker you need to have `docker` installed.
 
-You also need to set the environment variables as explained [previously](#set-the-client-id-and-domain).
+You also need to set the environment variables as explained [previously](#set-the-client-id-domain-and-api-url).
 
 Execute in command line `sh exec.sh` to run the Docker in Linux, or `.\exec.ps1` to run the Docker in Windows.
 
@@ -64,9 +64,6 @@ Auth0 helps you to:
 1. Go to [Auth0](https://auth0.com/signup) and click Sign Up.
 2. Use Google, GitHub or Microsoft Account to login.
 
-## Issue Reporting
-
-If you have found a bug or if you have a feature request, please report them at this repository issues section. Please do not report security vulnerabilities on the public GitHub issue tracker. The [Responsible Disclosure Program](https://auth0.com/whitehat) details the procedure for disclosing security issues.
 
 ## Author
 

@@ -1,0 +1,9 @@
+version: '2'
+services:
+   node:
+     build: ./node
+     ports:
+      - '3008:3000'
+     volumes:
+       - $PWD:/home/node/project/
+

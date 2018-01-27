@@ -1,4 +1,5 @@
 # Auth0 React App with Token Renewal
+[![GitHub issues](https://img.shields.io/github/issues/sumn2u/react-auth0-typescript.svg)](https://github.com/sumn2u/react-auth0-typescript/issues) [![GitHub forks](https://img.shields.io/github/forks/sumn2u/react-auth0-typescript.svg)](https://github.com/sumn2u/react-auth0-typescript/network) [![GitHub stars](https://img.shields.io/github/stars/sumn2u/react-auth0-typescript.svg)](https://github.com/sumn2u/react-auth0-typescript/stargazers) [![GitHub license](https://img.shields.io/github/license/sumn2u/react-auth0-typescript.svg)](https://github.com/sumn2u/react-auth0-typescript/blob/master/LICENSE.txt) [![Twitter](https://img.shields.io/twitter/url/https/github.com/sumn2u/react-auth0-typescript.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fsumn2u%2Freact-auth0-typescript)
 ![login](auth0_login.png)
 ![app](auth0_app.png)
 > React Application created by create-react-app (Typescript) which includes typescript

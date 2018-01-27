@@ -20,7 +20,7 @@ npm install
 
 ## Set the Client ID, Domain, and API URL
 
-If you download the sample from the quickstart page, it will come pre-populated with the **client ID** and **domain** for your application. If you clone the repo directly from Github, rename the `auth0-variables.js.example` file to `auth0-variables.js` and provide the **client ID** and **domain** there. This file is located in `src/Auth/`.
+If you download the sample from the quickstart page, it will come pre-populated with the **client ID** and **domain** for your application. If you clone the repo directly from Github, rename the `auth0-variables.tsx.example` file to `auth0-variables.tsx` and provide the **client ID** and **domain** there. This file is located in `src/Auth/`.
 
 ## Set Up `Allowed Web Origins` in the dashboard
 
